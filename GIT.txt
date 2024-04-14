@@ -9,4 +9,5 @@ git pull: This command fetches changes from a remote repository and merges them 
 git push: This command pushes commits from your local repository up to a remote repository.
 git stash: Stash the changes in a dirty working directory away.
 
+
 Другі зміни в файлі***

@@ -8,3 +8,5 @@ git checkout: This command is used to switch between different versions of a Git
 git pull: This command fetches changes from a remote repository and merges them into the current branch of your local repository.
 git push: This command pushes commits from your local repository up to a remote repository.
 git stash: Stash the changes in a dirty working directory away.
+
+Вніс правки***
